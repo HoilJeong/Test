@@ -10,8 +10,7 @@ namespace Test
 
     public class Solution
     {
-        public static int[,] array = new int[2, 3] { {1, 2 ,3 }, { 4, 5, 6 } };
-        
+        public static int[,] array = new int[2, 3] { {1, 2 ,3 }, { 4, 5, 6 } };    
 
         public static int solution(int[,] sizes)
         {
